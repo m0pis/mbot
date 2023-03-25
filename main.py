@@ -238,4 +238,4 @@ async def on_ready():
 
 #keep_alive()
 
-client.run("MTA3MzI4MDQ4MDQzNjI5NzcyOA.GSR7yt.uiYA6W9Pp-APnZwboDih1Vtueg1sjcQMqShs40")
+client.run("")
